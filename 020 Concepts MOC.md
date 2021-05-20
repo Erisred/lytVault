@@ -1,4 +1,4 @@
-links: [[000 Home|Home]]
+links: [Home](000 Home)
 
 # Concepts MOC
 *A concept is a pattern, truth, or mechanism recognized and given a name.*
